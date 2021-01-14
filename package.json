@@ -28,7 +28,7 @@
     "stylus-loader": "3.0.2",
     "svg-url-loader": "6.0.0",
     "webpack": "4.44.1",
-    "webpack-cli": "3.3.12"
+    "webpack-cli": "4.3.1"
   },
   "description": "Function to webpack Enonic XP style assets",
   "devDependencies": {
