@@ -35,7 +35,7 @@
     "babel-eslint": "10.1.0",
     "eslint": "7.8.1",
     "eslint-plugin-import": "2.22.0",
-    "terser-webpack-plugin": "4.1.0"
+    "terser-webpack-plugin": "4.2.3"
   },
   "files": [
     "dist"
