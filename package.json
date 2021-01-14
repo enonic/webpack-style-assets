@@ -2,7 +2,7 @@
   "author": "Christian Westgaard <cwe@enonic.com>",
   "contributors": [],
   "dependencies": {
-    "@babel/core": "7.11.6",
+    "@babel/core": "7.12.10",
     "@babel/plugin-proposal-class-properties": "7.10.4",
     "@babel/plugin-proposal-object-rest-spread": "7.11.0",
     "@babel/plugin-syntax-throw-expressions": "7.10.4",
