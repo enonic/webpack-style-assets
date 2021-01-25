@@ -42,5 +42,5 @@ Into:
 
 ### 0.11.0
 
-* Downgrade buildsystem to Node 12.20.1 since we're stuck on webpack 4
-* Upgrade node modules (patch, minor)
+* Node 15.6.0
+* Upgrade node modules (patch, minor, some major)
