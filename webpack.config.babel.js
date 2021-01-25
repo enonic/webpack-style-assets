@@ -44,7 +44,6 @@ const WEBPACK_CONFIG = {
   optimization: {
     minimizer: [
       new TerserPlugin({
-        sourceMap: true,
         terserOptions: {
           compress: {
             drop_console: false

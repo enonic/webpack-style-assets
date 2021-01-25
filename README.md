@@ -43,4 +43,4 @@ Into:
 ### 0.11.0
 
 * Node 15.6.0
-* Upgrade node modules (patch, minor, some major)
+* Upgrade node modules (patch, minor and major)
