@@ -34,7 +34,7 @@
   "devDependencies": {
     "babel-eslint": "10.1.0",
     "eslint": "7.8.1",
-    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-import": "2.22.1",
     "terser-webpack-plugin": "4.1.0"
   },
   "files": [
@@ -54,5 +54,5 @@
     "prepack": "yarn run webpack",
     "webpack": "webpack"
   },
-  "version": "0.10.0"
+  "version": "0.11.0"
 }

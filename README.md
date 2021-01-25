@@ -37,3 +37,10 @@ Into:
 ```
 ./build/resources/main/assets/style/bundle.css
 ```
+
+## Changelog
+
+### 0.11.0
+
+* Downgrade buildsystem to Node 12.20.1 since we're stuck on webpack 4
+* Upgrade node modules (patch)
