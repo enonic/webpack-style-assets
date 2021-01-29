@@ -42,6 +42,7 @@ Into:
 
 ### 0.12.0
 
+* maxModules removed in webpack 5
 * Node 15.7.0
 ### 0.11.0
 

@@ -105,7 +105,7 @@ export function webpackStyleAssets(params) {
 		stats = {
 			colors: true,
 			hash: false,
-			maxModules: 0,
+			//maxModules: 0,
 			modules: false,
 			moduleTrace: false,
 			timings: false,
