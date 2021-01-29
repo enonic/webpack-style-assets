@@ -44,6 +44,9 @@ Into:
 
 * maxModules removed in webpack 5
 * Node 15.7.0
+* Webpack 5.18.0
+* Mini-css-extract-plugin 1.3.5
+
 ### 0.11.0
 
 * Node 15.6.0
