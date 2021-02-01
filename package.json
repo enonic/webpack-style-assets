@@ -34,7 +34,7 @@
   "description": "Function to webpack Enonic XP style assets",
   "devDependencies": {
     "babel-eslint": "10.1.0",
-    "eslint": "7.18.0",
+    "eslint": "7.19.0",
     "eslint-plugin-import": "2.22.1",
     "terser-webpack-plugin": "5.1.1"
   },
