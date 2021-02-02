@@ -40,6 +40,13 @@ Into:
 
 ## Changelog
 
+### 0.13.0
+
+* eslint 7.19.0
+* less 4.1.1
+* less-loader 8.0.0
+* webpack 5.19.0
+
 ### 0.12.0
 
 * maxModules removed in webpack 5
